@@ -1,10 +1,10 @@
-This is a WebDev project: Google Clone with the following features:
-
+# This is a WebDev project: Google Clone
+## Features:
 1.Sign Up - Google Authentication  
 2.Web Searching - Google Search API   
 3.Hosting Service - Vercel  
 
-Built using:  
+## Built using:  
 1.Next JS  
 2.Tailwind CSS  
 3.Firebase  
@@ -15,7 +15,7 @@ Built using:
 -Search for any term  
 -Get relevant terms    
 
-Check out my hosted site: https://google-clone-falconhex.vercel.app/
+### Check out my hosted site: https://google-clone-falconhex.vercel.app/
   
 **Some files has been modified for security reasons 
 you may refer: https://youtu.be/24xpTmaPOdY for full tutorial**  
